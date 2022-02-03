@@ -1,0 +1,122 @@
+/*admin*/
+
+body#colibri .wp-block-latest-comments__comment-author {
+  color: #666666;
+  font-size: 14px;
+}
+
+body#colibri .wp-block-latest-comments__comment-author:hover {
+  color: #000;
+}
+
+/*block category*/
+
+body#colibri .wp-block-latest-comments__comment-link {
+  color: #666666;
+  font-size: 14px;
+}
+
+body#colibri .wp-block-latest-comments__comment-link:hover {
+  color: #000;
+}
+
+/*on*/
+
+body#colibri .wp-block-latest-comments .wp-block-latest-comments__comment-meta {
+  font-weight: normal;
+  color: #333333;
+  font-size: 14px;
+}
+
+/*date*/
+
+body#colibri .wp-block-latest-comments .wp-block-latest-comments__comment-date,
+body#colibri .wp-block-latest-comments.has-dates .wp-block-latest-comments__comment-date {
+  font-size: 14px;
+  margin-left: 3.7em;
+  color: #666666;
+}
+
+/*meta + excerpt*/
+
+body#colibri .wp-block-latest-comments .wp-block-latest-comments__comment-meta,
+body#colibri .wp-block-latest-comments .wp-block-latest-comments__comment-excerpt,
+body#colibri .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-excerpt,
+body#colibri .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta {
+  margin-left: 0px;
+}
+
+/*avatar*/
+
+body#colibri .wp-block-latest-comments__comment-avatar {
+  margin-top: 3px;
+}
+
+/*comments list*/
+
+body#colibri .wp-block-latest-comments__comment {
+  margin-bottom: 0px;
+}
+
+
+
+/*admin*/
+
+html.brite-theme .wp-block-latest-comments__comment-author {
+  color: #666666;
+  font-size: 14px;
+}
+
+html.brite-theme .wp-block-latest-comments__comment-author:hover {
+  color: #000;
+}
+
+/*block category*/
+
+html.brite-theme .wp-block-latest-comments__comment-link {
+  color: #666666;
+  font-size: 14px;
+}
+
+html.brite-theme .wp-block-latest-comments__comment-link:hover {
+  color: #000;
+}
+
+/*on*/
+
+html.brite-theme .wp-block-latest-comments .wp-block-latest-comments__comment-meta {
+  font-weight: normal;
+  color: #333333;
+  font-size: 14px;
+}
+
+/*date*/
+
+html.brite-theme .wp-block-latest-comments .wp-block-latest-comments__comment-date,
+html.brite-theme .wp-block-latest-comments.has-dates .wp-block-latest-comments__comment-date {
+  font-size: 14px;
+  margin-left: 3.7em;
+  color: #666666;
+}
+
+/*meta + excerpt*/
+
+html.brite-theme .wp-block-latest-comments .wp-block-latest-comments__comment-meta,
+html.brite-theme .wp-block-latest-comments .wp-block-latest-comments__comment-excerpt,
+html.brite-theme .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-excerpt,
+html.brite-theme .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta {
+  margin-left: 0px;
+}
+
+/*avatar*/
+
+html.brite-theme .wp-block-latest-comments__comment-avatar {
+  margin-top: 3px;
+}
+
+/*comments list*/
+
+html.brite-theme .wp-block-latest-comments__comment {
+  margin-bottom: 0px;
+}
+
