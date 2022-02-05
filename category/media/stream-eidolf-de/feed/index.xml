@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Neue Intros</title>
-		<link>/hello-world/</link>
+		<link>/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
 					<comments>/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[eradmin]]></dc:creator>
