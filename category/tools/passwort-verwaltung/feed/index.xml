@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Passwort Verwaltung &#8211; ER-Netz Info</title>
+	<atom:link href="/category/tools/passwort-verwaltung/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Alle Neuigkeiten zum Netzwerk</description>
+	<lastBuildDate>Sat, 05 Feb 2022 22:00:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
+	<title>Passwort Verwaltung &#8211; ER-Netz Info</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vaultwarden (Bitwarden)</title>
+		<link>/vaultwarden-bitwarden/</link>
+					<comments>/vaultwarden-bitwarden/#respond</comments>
+		
+		<dc:creator><![CDATA[eradmin]]></dc:creator>
+		<pubDate>Sat, 05 Feb 2022 21:56:36 +0000</pubDate>
+				<category><![CDATA[Passwort Verwaltung]]></category>
+		<category><![CDATA[Tools]]></category>
+		<category><![CDATA[2FA]]></category>
+		<category><![CDATA[Bitwarden]]></category>
+		<category><![CDATA[Password]]></category>
+		<category><![CDATA[Passwort]]></category>
+		<category><![CDATA[Secure Send]]></category>
+		<category><![CDATA[TOTP]]></category>
+		<category><![CDATA[Vaultwarden]]></category>
+		<guid isPermaLink="false">/?p=335</guid>
+
+					<description><![CDATA[Wenn man überhaupt einen Password Safe verwendet ist es meist KeePass gewesen. Im ER-Netz habe ich bisher Password Manager Pro von ManageEngine angeboten.Voraussichtlich werde ich diesen wegen Komponenten, die ich als Admin verwende, auch nicht entfernen und er ist somit weiterhin auf https://pw.eidolf.de/ erreichbar.Probleme am PMP gibt es aber in der Hauptfunktion, der Passwortverwaltung, schlechte [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-left">Wenn man überhaupt einen Password Safe verwendet ist es meist <strong>KeePass</strong> gewesen. Im ER-Netz habe ich bisher <strong>Password Manager Pro</strong> von ManageEngine angeboten.<br>Voraussichtlich werde ich diesen wegen Komponenten, die ich als Admin verwende, auch nicht entfernen und er ist somit weiterhin auf <a rel="noreferrer noopener" href="https://pw.eidolf.de/" data-type="URL" data-id="https://pw.eidolf.de/" target="_blank">https://pw.eidolf.de/</a> erreichbar.<br>Probleme am PMP gibt es aber in der Hauptfunktion, der Passwortverwaltung, schlechte Applikationen bzw. keine für den Desktop machen es schwer es sinnvoll zu nutzen. Die Webseite an sich ist in Ordnung aber auch hier gibt es Kleinigkeiten die besser umgesetzt hätten werden sollen.</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="413" src="/wp-content/uploads/2022/02/PMP-1024x413.png" alt="" class="wp-image-338" srcset="/wp-content/uploads/2022/02/PMP-1024x413.png 1024w, /wp-content/uploads/2022/02/PMP-300x121.png 300w, /wp-content/uploads/2022/02/PMP-768x310.png 768w, /wp-content/uploads/2022/02/PMP-1536x620.png 1536w, /wp-content/uploads/2022/02/PMP.png 1707w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Durch einen Arbeitskollegen bin ich auf Bitwarden aufmerksam gemacht worden, der nach ausgiebigen Tests eindeutig in der Passwortverwaltung um längen besser ist und seines gleichen sucht.<br>Es bietet für alle Arten die geeignete Anwendung, siehe dazu die <a rel="noreferrer noopener" href="https://bitwarden.com/download/" data-type="URL" data-id="https://bitwarden.com/download/" target="_blank">Downloadseite</a>.<br>Weiterhin noch Zusatzfunktionen wie:</p>
+
+
+
+<ul><li>Zwei Faktor Code Verwaltung (Für mich das Beste Feature)</li><li>Sicheres senden von Dateien oder Text</li><li>Android Password Autofill</li><li>Kreditkartenverwaltung</li><li>Identitätsverwaltung</li><li>Sichere Notizen</li></ul>
+
+
+
+<p>Ihr könnt euch bisher noch direkt ohne mein Zutun anmelden auf <a rel="noreferrer noopener" href="https://bitwarden.eidolf.de/" data-type="URL" data-id="https://bitwarden.eidolf.de/" target="_blank">bitwarden.eidolf.de</a>, das kann sich aber in Zukunft ändern wenn es unerwünschte Anmeldungen von dritten gibt.</p>
+
+
+
+<p><mark style="background-color:rgba(0, 0, 0, 0);color:#f30101" class="has-inline-color">Hinweis!</mark> Das Passwort welches ihr verwendet kann nicht zurückgesetzt werden und wenn ihr es vergessen solltet gibt es keine Möglichkeit euren Bereich durch mich wiederherstellen zu lassen. Es ist euer Passwortbereich mit eurem verschlüsselten Bereich durch genau dieses Masterpasswort.</p>
+
+
+
+<p>Hier noch ein paar Screenshots:</p>
+
+
+
+<div class="wp-block-nextend-smartslider3"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vaultwarden-bitwarden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
