@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Passwort Verwaltung &#8211; ER-Netz Info</title>
-	<atom:link href="/category/tools/passwort-verwaltung/feed/" rel="self" type="application/rss+xml" />
+	<title>Bitwarden &#8211; ER-Netz Info</title>
+	<atom:link href="/tag/bitwarden/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Alle Neuigkeiten zum Netzwerk</description>
 	<lastBuildDate>Sat, 05 Feb 2022 22:00:05 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
-	<title>Passwort Verwaltung &#8211; ER-Netz Info</title>
+	<title>Bitwarden &#8211; ER-Netz Info</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
