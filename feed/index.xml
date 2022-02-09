@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ER-Netz Info</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Alle Neuigkeiten zum Netzwerk</description>
+	<lastBuildDate>Tue, 08 Feb 2022 20:40:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
+	<title>ER-Netz Info</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Microsoft 365</title>
+		<link>/microsoft-365/</link>
+					<comments>/microsoft-365/#respond</comments>
+		
+		<dc:creator><![CDATA[eradmin]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 20:40:35 +0000</pubDate>
+				<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[Office]]></category>
+		<category><![CDATA[E-Mail]]></category>
+		<category><![CDATA[Excel]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Office 365]]></category>
+		<category><![CDATA[OneDrive]]></category>
+		<category><![CDATA[OneNote]]></category>
+		<category><![CDATA[Outlook]]></category>
+		<category><![CDATA[PowerPoint]]></category>
+		<category><![CDATA[SharePoint]]></category>
+		<category><![CDATA[Skype4Business]]></category>
+		<category><![CDATA[Teams]]></category>
+		<category><![CDATA[Word]]></category>
+		<guid isPermaLink="false">/?p=354</guid>
+
+					<description><![CDATA[Alle die bei mir intern ein Konto haben werden mit ihren E-Mails und dem Skype4Business Konto in Richtung O365 geschoben um dort die Vorteile der Cloud zu genießen.Da diese Option nur durch eine (im Moment unbegrenzte) Testlizenz möglich ist, die zwar bisher durch Microsoft immer brav verlängert wird, man sich aber nie sicher sein kann [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Alle die bei mir intern ein Konto haben werden mit ihren E-Mails und dem Skype4Business Konto in Richtung O365 geschoben um dort die Vorteile der Cloud zu genießen.<br>Da diese Option nur durch eine (im Moment unbegrenzte) Testlizenz möglich ist, die zwar bisher durch Microsoft immer brav verlängert wird, man sich aber nie sicher sein kann ob und wann das Programm wieder eingestampft wird, kann es gut möglich sein euch wieder zurückschieben zu müssen.<br>Wenn es soweit ist werdet ihr natürlich davor informiert.</p>
+
+
+
+<p><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-colibri-color-4-color">Kleine Anmerkung am Rande.</mark><br><mark style="background-color:#ceeaf6" class="has-inline-color"><em>Es kann in Zukunft gut möglich sein das, daß bisherige Konstrukt der angebotenen Dienste nicht mehr möglich ist. Das Hauptproblem ist das Microsoft seine lokalen Produkte nicht mehr weiter ausbaut und man somit nur noch Cloudprodukte verwenden kann. Die alten onPrem (lokalen) Produkte werden irgendwann deutliche Sicherheitslücken aufweisen, die ich dann nicht mehr vertreten kann.<br>Auch hier kann ich nur sagen wenn es soweit ist melde ich mich und vielleicht mache ich Vorschläge mit einer anschließenden Abstimmung.</em></mark></p>
+
+
+
+<p>Jetzt wieder zum Thema.<br>Ihr könnt mit der Lizenz eigentlich das ganze Office 365 nutzen inkl. dem Office Paket zum herunterladen.<br><img loading="lazy" width="540" height="475" class="wp-image-355" style="width: 300px;" src="/wp-content/uploads/2022/02/office-365-programme_muenchen.webp" alt="" srcset="/wp-content/uploads/2022/02/office-365-programme_muenchen.webp 540w, /wp-content/uploads/2022/02/office-365-programme_muenchen-300x264.webp 300w" sizes="(max-width: 540px) 100vw, 540px" /><br>Und weitere Produkte aus der Microsoft 365 Suite, <mark style="background-color:rgba(0, 0, 0, 0);color:#fd3f3f" class="has-inline-color">außer das Windows Betriebssystem</mark>. </p>
+
+
+
+<p>Der Zugang erfolgt mit euren bekannten internen Anmeldedaten auf<br><a rel="noreferrer noopener" href="https://portal.office365.com/" target="_blank">portal.office365.com</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="518" src="/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png" alt="" class="wp-image-357" srcset="/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png 1024w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-300x152.png 300w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-768x388.png 768w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1536x776.png 1536w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>OneDrive kann mit seinem 1TB Speicher pro Benutzer voll genutzt werden, doch wie oben geschrieben ist hier Vorsicht geboten falls die Lizenz ausläuft.</p>
+
+
+
+<p>Wenn es irgendwo Unklarheiten geben sollte gerne bei mir melden oder ein Ticket öffnen und falls Bedarf mache ich eine Anleitung im Ticketsystem.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/microsoft-365/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vaultwarden (Bitwarden)</title>
+		<link>/vaultwarden-bitwarden/</link>
+					<comments>/vaultwarden-bitwarden/#respond</comments>
+		
+		<dc:creator><![CDATA[eradmin]]></dc:creator>
+		<pubDate>Sat, 05 Feb 2022 21:56:36 +0000</pubDate>
+				<category><![CDATA[Passwort Verwaltung]]></category>
+		<category><![CDATA[Tools]]></category>
+		<category><![CDATA[2FA]]></category>
+		<category><![CDATA[Bitwarden]]></category>
+		<category><![CDATA[Password]]></category>
+		<category><![CDATA[Passwort]]></category>
+		<category><![CDATA[Secure Send]]></category>
+		<category><![CDATA[TOTP]]></category>
+		<category><![CDATA[Vaultwarden]]></category>
+		<guid isPermaLink="false">/?p=335</guid>
+
+					<description><![CDATA[Wenn man überhaupt einen Password Safe verwendet ist es meist KeePass gewesen. Im ER-Netz habe ich bisher Password Manager Pro von ManageEngine angeboten.Voraussichtlich werde ich diesen wegen Komponenten, die ich als Admin verwende, auch nicht entfernen und er ist somit weiterhin auf https://pw.eidolf.de/ erreichbar.Probleme am PMP gibt es aber in der Hauptfunktion, der Passwortverwaltung, schlechte [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-left">Wenn man überhaupt einen Password Safe verwendet ist es meist <strong>KeePass</strong> gewesen. Im ER-Netz habe ich bisher <strong>Password Manager Pro</strong> von ManageEngine angeboten.<br>Voraussichtlich werde ich diesen wegen Komponenten, die ich als Admin verwende, auch nicht entfernen und er ist somit weiterhin auf <a rel="noreferrer noopener" href="https://pw.eidolf.de/" data-type="URL" data-id="https://pw.eidolf.de/" target="_blank">https://pw.eidolf.de/</a> erreichbar.<br>Probleme am PMP gibt es aber in der Hauptfunktion, der Passwortverwaltung, schlechte Applikationen bzw. keine für den Desktop machen es schwer es sinnvoll zu nutzen. Die Webseite an sich ist in Ordnung aber auch hier gibt es Kleinigkeiten die besser umgesetzt hätten werden sollen.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="413" src="/wp-content/uploads/2022/02/PMP-1024x413.png" alt="" class="wp-image-338" srcset="/wp-content/uploads/2022/02/PMP-1024x413.png 1024w, /wp-content/uploads/2022/02/PMP-300x121.png 300w, /wp-content/uploads/2022/02/PMP-768x310.png 768w, /wp-content/uploads/2022/02/PMP-1536x620.png 1536w, /wp-content/uploads/2022/02/PMP.png 1707w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Durch einen Arbeitskollegen bin ich auf Bitwarden aufmerksam gemacht worden, der nach ausgiebigen Tests eindeutig in der Passwortverwaltung um längen besser ist und seines gleichen sucht.<br>Es bietet für alle Arten die geeignete Anwendung, siehe dazu die <a rel="noreferrer noopener" href="https://bitwarden.com/download/" data-type="URL" data-id="https://bitwarden.com/download/" target="_blank">Downloadseite</a>.<br>Weiterhin noch Zusatzfunktionen wie:</p>
+
+
+
+<ul><li>Zwei Faktor Code Verwaltung (Für mich das Beste Feature)</li><li>Sicheres senden von Dateien oder Text</li><li>Android Password Autofill</li><li>Kreditkartenverwaltung</li><li>Identitätsverwaltung</li><li>Sichere Notizen</li></ul>
+
+
+
+<p>Ihr könnt euch bisher noch direkt ohne mein Zutun anmelden auf <a rel="noreferrer noopener" href="https://bitwarden.eidolf.de/" data-type="URL" data-id="https://bitwarden.eidolf.de/" target="_blank">bitwarden.eidolf.de</a>, das kann sich aber in Zukunft ändern wenn es unerwünschte Anmeldungen von dritten gibt.</p>
+
+
+
+<p><mark style="background-color:rgba(0, 0, 0, 0);color:#f30101" class="has-inline-color">Hinweis!</mark> Das Passwort welches ihr verwendet kann nicht zurückgesetzt werden und wenn ihr es vergessen solltet gibt es keine Möglichkeit euren Bereich durch mich wiederherstellen zu lassen. Es ist euer Passwortbereich mit eurem verschlüsselten Bereich durch genau dieses Masterpasswort.</p>
+
+
+
+<p>Hier noch ein paar Screenshots:</p>
+
+
+
+<div class="wp-block-nextend-smartslider3"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/vaultwarden-bitwarden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neue Intros</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[eradmin]]></dc:creator>
+		<pubDate>Wed, 02 Feb 2022 21:26:23 +0000</pubDate>
+				<category><![CDATA[Media]]></category>
+		<category><![CDATA[stream.eidolf.de]]></category>
+		<category><![CDATA[Intro]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Es sind mehrere neue Intros zu den bestehenden 8 auf stream.eidolf.de hinzugefügt worden. Ich hoffe sie gefallen euch genau so wie mir.]]></description>
+										<content:encoded><![CDATA[
+<p>Es sind mehrere neue Intros zu den bestehenden 8 auf <a rel="noreferrer noopener" href="https://stream.eidolf.de/" data-type="URL" data-id="https://stream.eidolf.de/" target="_blank">stream.eidolf.de</a> hinzugefügt worden. Ich hoffe sie gefallen euch genau so wie mir.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
