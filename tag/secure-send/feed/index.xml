@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Secure Send &#8211; ER-Netz Info</title>
-	<atom:link href="/tag/secure-send/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://info.eidolf.de/tag/secure-send/feed/" rel="self" type="application/rss+xml" />
+	<link>https://info.eidolf.de/</link>
 	<description>Alle Neuigkeiten zum Netzwerk</description>
 	<lastBuildDate>Sat, 05 Feb 2022 22:00:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
+	<url>https://info.eidolf.de/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
 	<title>Secure Send &#8211; ER-Netz Info</title>
-	<link>/</link>
+	<link>https://info.eidolf.de/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vaultwarden (Bitwarden)</title>
-		<link>/vaultwarden-bitwarden/</link>
-					<comments>/vaultwarden-bitwarden/#respond</comments>
+		<link>https://info.eidolf.de/vaultwarden-bitwarden/</link>
+					<comments>https://info.eidolf.de/vaultwarden-bitwarden/#respond</comments>
 		
 		<dc:creator><![CDATA[eradmin]]></dc:creator>
 		<pubDate>Sat, 05 Feb 2022 21:56:36 +0000</pubDate>
@@ -43,7 +43,7 @@
 		<category><![CDATA[Secure Send]]></category>
 		<category><![CDATA[TOTP]]></category>
 		<category><![CDATA[Vaultwarden]]></category>
-		<guid isPermaLink="false">/?p=335</guid>
+		<guid isPermaLink="false">https://info.eidolf.de/?p=335</guid>
 
 					<description><![CDATA[Wenn man überhaupt einen Password Safe verwendet ist es meist KeePass gewesen. Im ER-Netz habe ich bisher Password Manager Pro von ManageEngine angeboten.Voraussichtlich werde ich diesen wegen Komponenten, die ich als Admin verwende, auch nicht entfernen und er ist somit weiterhin auf https://pw.eidolf.de/ erreichbar.Probleme am PMP gibt es aber in der Hauptfunktion, der Passwortverwaltung, schlechte [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -51,7 +51,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img width="1024" height="413" src="/wp-content/uploads/2022/02/PMP-1024x413.png" alt="" class="wp-image-338" srcset="/wp-content/uploads/2022/02/PMP-1024x413.png 1024w, /wp-content/uploads/2022/02/PMP-300x121.png 300w, /wp-content/uploads/2022/02/PMP-768x310.png 768w, /wp-content/uploads/2022/02/PMP-1536x620.png 1536w, /wp-content/uploads/2022/02/PMP.png 1707w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img width="1024" height="413" src="https://info.eidolf.de/wp-content/uploads/2022/02/PMP-1024x413.png" alt="" class="wp-image-338" srcset="https://info.eidolf.de/wp-content/uploads/2022/02/PMP-1024x413.png 1024w, https://info.eidolf.de/wp-content/uploads/2022/02/PMP-300x121.png 300w, https://info.eidolf.de/wp-content/uploads/2022/02/PMP-768x310.png 768w, https://info.eidolf.de/wp-content/uploads/2022/02/PMP-1536x620.png 1536w, https://info.eidolf.de/wp-content/uploads/2022/02/PMP.png 1707w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -78,7 +78,7 @@
 <div class="wp-block-nextend-smartslider3"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vaultwarden-bitwarden/feed/</wfw:commentRss>
+					<wfw:commentRss>https://info.eidolf.de/vaultwarden-bitwarden/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

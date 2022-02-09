@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Microsoft &#8211; ER-Netz Info</title>
-	<atom:link href="/tag/microsoft/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://info.eidolf.de/tag/microsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://info.eidolf.de/</link>
 	<description>Alle Neuigkeiten zum Netzwerk</description>
 	<lastBuildDate>Tue, 08 Feb 2022 20:40:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
+	<url>https://info.eidolf.de/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
 	<title>Microsoft &#8211; ER-Netz Info</title>
-	<link>/</link>
+	<link>https://info.eidolf.de/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Microsoft 365</title>
-		<link>/microsoft-365/</link>
-					<comments>/microsoft-365/#respond</comments>
+		<link>https://info.eidolf.de/microsoft-365/</link>
+					<comments>https://info.eidolf.de/microsoft-365/#respond</comments>
 		
 		<dc:creator><![CDATA[eradmin]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 20:40:35 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<category><![CDATA[Skype4Business]]></category>
 		<category><![CDATA[Teams]]></category>
 		<category><![CDATA[Word]]></category>
-		<guid isPermaLink="false">/?p=354</guid>
+		<guid isPermaLink="false">https://info.eidolf.de/?p=354</guid>
 
 					<description><![CDATA[Alle die bei mir intern ein Konto haben werden mit ihren E-Mails und dem Skype4Business Konto in Richtung O365 geschoben um dort die Vorteile der Cloud zu genießen.Da diese Option nur durch eine (im Moment unbegrenzte) Testlizenz möglich ist, die zwar bisher durch Microsoft immer brav verlängert wird, man sich aber nie sicher sein kann [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -60,7 +60,7 @@
 
 
 
-<p>Jetzt wieder zum Thema.<br>Ihr könnt mit der Lizenz eigentlich das ganze Office 365 nutzen inkl. dem Office Paket zum herunterladen.<br><img loading="lazy" width="540" height="475" class="wp-image-355" style="width: 300px;" src="/wp-content/uploads/2022/02/office-365-programme_muenchen.webp" alt="" srcset="/wp-content/uploads/2022/02/office-365-programme_muenchen.webp 540w, /wp-content/uploads/2022/02/office-365-programme_muenchen-300x264.webp 300w" sizes="(max-width: 540px) 100vw, 540px" /><br>Und weitere Produkte aus der Microsoft 365 Suite, <mark style="background-color:rgba(0, 0, 0, 0);color:#fd3f3f" class="has-inline-color">außer das Windows Betriebssystem</mark>. </p>
+<p>Jetzt wieder zum Thema.<br>Ihr könnt mit der Lizenz eigentlich das ganze Office 365 nutzen inkl. dem Office Paket zum herunterladen.<br><img loading="lazy" width="540" height="475" class="wp-image-355" style="width: 300px;" src="https://info.eidolf.de/wp-content/uploads/2022/02/office-365-programme_muenchen.webp" alt="" srcset="https://info.eidolf.de/wp-content/uploads/2022/02/office-365-programme_muenchen.webp 540w, https://info.eidolf.de/wp-content/uploads/2022/02/office-365-programme_muenchen-300x264.webp 300w" sizes="(max-width: 540px) 100vw, 540px" /><br>Und weitere Produkte aus der Microsoft 365 Suite, <mark style="background-color:rgba(0, 0, 0, 0);color:#fd3f3f" class="has-inline-color">außer das Windows Betriebssystem</mark>. </p>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="518" src="/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png" alt="" class="wp-image-357" srcset="/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png 1024w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-300x152.png 300w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-768x388.png 768w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1536x776.png 1536w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="518" src="https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png" alt="" class="wp-image-357" srcset="https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png 1024w, https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-300x152.png 300w, https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-768x388.png 768w, https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1536x776.png 1536w, https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -79,7 +79,7 @@
 <p>Wenn es irgendwo Unklarheiten geben sollte gerne bei mir melden oder ein Ticket öffnen und falls Bedarf mache ich eine Anleitung im Ticketsystem.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/microsoft-365/feed/</wfw:commentRss>
+					<wfw:commentRss>https://info.eidolf.de/microsoft-365/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

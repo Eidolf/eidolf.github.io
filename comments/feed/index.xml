@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for ER-Netz Info	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://info.eidolf.de/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://info.eidolf.de/</link>
 	<description>Alle Neuigkeiten zum Netzwerk</description>
-	<lastBuildDate>Sat, 05 Feb 2022 22:00:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 15:48:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
