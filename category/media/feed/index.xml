@@ -12,13 +12,13 @@
 	<atom:link href="/category/media/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Alle Neuigkeiten zum Netzwerk</description>
-	<lastBuildDate>Fri, 04 Feb 2022 23:37:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Aug 2022 22:58:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Intro überspringen</title>
+		<link>/intro-uberspringen/</link>
+					<comments>/intro-uberspringen/#respond</comments>
+		
+		<dc:creator><![CDATA[eradmin]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2022 22:20:05 +0000</pubDate>
+				<category><![CDATA[Media]]></category>
+		<category><![CDATA[stream.eidolf.de]]></category>
+		<category><![CDATA[Emby]]></category>
+		<guid isPermaLink="false">/?p=458</guid>
+
+					<description><![CDATA[Bei Serien kann man jetzt wie bei Amazon oder Netflix die Intro&#8217;s überspringen.Es sollte grundsätzlich bei allen Endgeräten ob TV, Browser oder Smartphone funktionieren.Bei einzelnen Intro&#8217;s sind vielleicht die Zeiten nicht passend, bitte einfach bei mir melden.]]></description>
+										<content:encoded><![CDATA[
+<p>Bei Serien kann man jetzt wie bei Amazon oder Netflix die Intro&#8217;s überspringen.<br>Es sollte grundsätzlich bei allen Endgeräten ob TV, Browser oder Smartphone funktionieren.<br>Bei einzelnen Intro&#8217;s sind vielleicht die Zeiten nicht passend, bitte einfach bei mir melden.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="498" height="309" src="/wp-content/uploads/2022/08/Serien-Intro.png" alt="" class="wp-image-459" srcset="/wp-content/uploads/2022/08/Serien-Intro.png 498w, /wp-content/uploads/2022/08/Serien-Intro-300x186.png 300w" sizes="(max-width: 498px) 100vw, 498px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/intro-uberspringen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Neue Intros</title>
 		<link>/hello-world/</link>
 					<comments>/hello-world/#respond</comments>
