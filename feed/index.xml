@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ER-Netz Info</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://info.eidolf.de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://info.eidolf.de/</link>
 	<description>Alle Neuigkeiten zum Netzwerk</description>
 	<lastBuildDate>Mon, 15 Aug 2022 22:58:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
+	<url>https://info.eidolf.de/wp-content/uploads/2022/02/ER-Netz-Logo-1920-150x150.png</url>
 	<title>ER-Netz Info</title>
-	<link>/</link>
+	<link>https://info.eidolf.de/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Intro überspringen</title>
-		<link>/intro-uberspringen/</link>
-					<comments>/intro-uberspringen/#respond</comments>
+		<link>https://info.eidolf.de/intro-uberspringen/</link>
+					<comments>https://info.eidolf.de/intro-uberspringen/#respond</comments>
 		
 		<dc:creator><![CDATA[eradmin]]></dc:creator>
 		<pubDate>Mon, 15 Aug 2022 22:20:05 +0000</pubDate>
 				<category><![CDATA[Media]]></category>
 		<category><![CDATA[stream.eidolf.de]]></category>
 		<category><![CDATA[Emby]]></category>
-		<guid isPermaLink="false">/?p=458</guid>
+		<guid isPermaLink="false">https://info.eidolf.de/?p=458</guid>
 
 					<description><![CDATA[Bei Serien kann man jetzt wie bei Amazon oder Netflix die Intro&#8217;s überspringen.Es sollte grundsätzlich bei allen Endgeräten ob TV, Browser oder Smartphone funktionieren.Bei einzelnen Intro&#8217;s sind vielleicht die Zeiten nicht passend, bitte einfach bei mir melden.]]></description>
 										<content:encoded><![CDATA[
@@ -45,18 +45,18 @@
 
 
 
-<figure class="wp-block-image size-full"><img width="498" height="309" src="/wp-content/uploads/2022/08/Serien-Intro.png" alt="" class="wp-image-459" srcset="/wp-content/uploads/2022/08/Serien-Intro.png 498w, /wp-content/uploads/2022/08/Serien-Intro-300x186.png 300w" sizes="(max-width: 498px) 100vw, 498px" /></figure>
+<figure class="wp-block-image size-full"><img width="498" height="309" src="https://info.eidolf.de/wp-content/uploads/2022/08/Serien-Intro.png" alt="" class="wp-image-459" srcset="https://info.eidolf.de/wp-content/uploads/2022/08/Serien-Intro.png 498w, https://info.eidolf.de/wp-content/uploads/2022/08/Serien-Intro-300x186.png 300w" sizes="(max-width: 498px) 100vw, 498px" /></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/intro-uberspringen/feed/</wfw:commentRss>
+					<wfw:commentRss>https://info.eidolf.de/intro-uberspringen/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Microsoft 365</title>
-		<link>/microsoft-365/</link>
-					<comments>/microsoft-365/#respond</comments>
+		<link>https://info.eidolf.de/microsoft-365/</link>
+					<comments>https://info.eidolf.de/microsoft-365/#respond</comments>
 		
 		<dc:creator><![CDATA[eradmin]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 20:40:35 +0000</pubDate>
@@ -74,7 +74,7 @@
 		<category><![CDATA[Skype4Business]]></category>
 		<category><![CDATA[Teams]]></category>
 		<category><![CDATA[Word]]></category>
-		<guid isPermaLink="false">/?p=354</guid>
+		<guid isPermaLink="false">https://info.eidolf.de/?p=354</guid>
 
 					<description><![CDATA[Alle die bei mir intern ein Konto haben werden mit ihren E-Mails und dem Skype4Business Konto in Richtung O365 geschoben um dort die Vorteile der Cloud zu genießen.Da diese Option nur durch eine (im Moment unbegrenzte) Testlizenz möglich ist, die zwar bisher durch Microsoft immer brav verlängert wird, man sich aber nie sicher sein kann [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -86,7 +86,7 @@
 
 
 
-<p>Jetzt wieder zum Thema.<br>Ihr könnt mit der Lizenz eigentlich das ganze Office 365 nutzen inkl. dem Office Paket zum herunterladen.<br><img loading="lazy" width="540" height="475" class="wp-image-355" style="width: 300px;" src="/wp-content/uploads/2022/02/office-365-programme_muenchen.webp" alt="" srcset="/wp-content/uploads/2022/02/office-365-programme_muenchen.webp 540w, /wp-content/uploads/2022/02/office-365-programme_muenchen-300x264.webp 300w" sizes="(max-width: 540px) 100vw, 540px" /><br>Und weitere Produkte aus der Microsoft 365 Suite, <mark style="background-color:rgba(0, 0, 0, 0);color:#fd3f3f" class="has-inline-color">außer das Windows Betriebssystem</mark>. </p>
+<p>Jetzt wieder zum Thema.<br>Ihr könnt mit der Lizenz eigentlich das ganze Office 365 nutzen inkl. dem Office Paket zum herunterladen.<br><img loading="lazy" width="540" height="475" class="wp-image-355" style="width: 300px;" src="https://info.eidolf.de/wp-content/uploads/2022/02/office-365-programme_muenchen.webp" alt="" srcset="https://info.eidolf.de/wp-content/uploads/2022/02/office-365-programme_muenchen.webp 540w, https://info.eidolf.de/wp-content/uploads/2022/02/office-365-programme_muenchen-300x264.webp 300w" sizes="(max-width: 540px) 100vw, 540px" /><br>Und weitere Produkte aus der Microsoft 365 Suite, <mark style="background-color:rgba(0, 0, 0, 0);color:#fd3f3f" class="has-inline-color">außer das Windows Betriebssystem</mark>. </p>
 
 
 
@@ -94,7 +94,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="518" src="/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png" alt="" class="wp-image-357" srcset="/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png 1024w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-300x152.png 300w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-768x388.png 768w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1536x776.png 1536w, /wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="518" src="https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png" alt="" class="wp-image-357" srcset="https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1024x518.png 1024w, https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-300x152.png 300w, https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-768x388.png 768w, https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365-1536x776.png 1536w, https://info.eidolf.de/wp-content/uploads/2022/02/2022-02-08-21_35_06-Office365.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -105,15 +105,15 @@
 <p>Wenn es irgendwo Unklarheiten geben sollte gerne bei mir melden oder ein Ticket öffnen und falls Bedarf mache ich eine Anleitung im Ticketsystem.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/microsoft-365/feed/</wfw:commentRss>
+					<wfw:commentRss>https://info.eidolf.de/microsoft-365/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vaultwarden (Bitwarden)</title>
-		<link>/vaultwarden-bitwarden/</link>
-					<comments>/vaultwarden-bitwarden/#respond</comments>
+		<link>https://info.eidolf.de/vaultwarden-bitwarden/</link>
+					<comments>https://info.eidolf.de/vaultwarden-bitwarden/#respond</comments>
 		
 		<dc:creator><![CDATA[eradmin]]></dc:creator>
 		<pubDate>Sat, 05 Feb 2022 21:56:36 +0000</pubDate>
@@ -126,7 +126,7 @@
 		<category><![CDATA[Secure Send]]></category>
 		<category><![CDATA[TOTP]]></category>
 		<category><![CDATA[Vaultwarden]]></category>
-		<guid isPermaLink="false">/?p=335</guid>
+		<guid isPermaLink="false">https://info.eidolf.de/?p=335</guid>
 
 					<description><![CDATA[Wenn man überhaupt einen Password Safe verwendet ist es meist KeePass gewesen. Im ER-Netz habe ich bisher Password Manager Pro von ManageEngine angeboten.Voraussichtlich werde ich diesen wegen Komponenten, die ich als Admin verwende, auch nicht entfernen und er ist somit weiterhin auf https://pw.eidolf.de/ erreichbar.Probleme am PMP gibt es aber in der Hauptfunktion, der Passwortverwaltung, schlechte [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -134,7 +134,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="413" src="/wp-content/uploads/2022/02/PMP-1024x413.png" alt="" class="wp-image-338" srcset="/wp-content/uploads/2022/02/PMP-1024x413.png 1024w, /wp-content/uploads/2022/02/PMP-300x121.png 300w, /wp-content/uploads/2022/02/PMP-768x310.png 768w, /wp-content/uploads/2022/02/PMP-1536x620.png 1536w, /wp-content/uploads/2022/02/PMP.png 1707w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="413" src="https://info.eidolf.de/wp-content/uploads/2022/02/PMP-1024x413.png" alt="" class="wp-image-338" srcset="https://info.eidolf.de/wp-content/uploads/2022/02/PMP-1024x413.png 1024w, https://info.eidolf.de/wp-content/uploads/2022/02/PMP-300x121.png 300w, https://info.eidolf.de/wp-content/uploads/2022/02/PMP-768x310.png 768w, https://info.eidolf.de/wp-content/uploads/2022/02/PMP-1536x620.png 1536w, https://info.eidolf.de/wp-content/uploads/2022/02/PMP.png 1707w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -161,29 +161,29 @@
 <div class="wp-block-nextend-smartslider3"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vaultwarden-bitwarden/feed/</wfw:commentRss>
+					<wfw:commentRss>https://info.eidolf.de/vaultwarden-bitwarden/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Neue Intros</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#respond</comments>
+		<link>https://info.eidolf.de/hello-world/</link>
+					<comments>https://info.eidolf.de/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[eradmin]]></dc:creator>
 		<pubDate>Wed, 02 Feb 2022 21:26:23 +0000</pubDate>
 				<category><![CDATA[Media]]></category>
 		<category><![CDATA[stream.eidolf.de]]></category>
 		<category><![CDATA[Intro]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://info.eidolf.de/?p=1</guid>
 
 					<description><![CDATA[Es sind mehrere neue Intros zu den bestehenden 8 auf stream.eidolf.de hinzugefügt worden. Ich hoffe sie gefallen euch genau so wie mir.]]></description>
 										<content:encoded><![CDATA[
 <p>Es sind mehrere neue Intros zu den bestehenden 8 auf <a rel="noreferrer noopener" href="https://stream.eidolf.de/" data-type="URL" data-id="https://stream.eidolf.de/" target="_blank">stream.eidolf.de</a> hinzugefügt worden. Ich hoffe sie gefallen euch genau so wie mir.<br></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://info.eidolf.de/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

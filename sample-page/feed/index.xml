@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Über die Seite	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://info.eidolf.de/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://info.eidolf.de/</link>
 	<description>Alle Neuigkeiten zum Netzwerk</description>
 	<lastBuildDate>Sat, 05 Feb 2022 02:09:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
