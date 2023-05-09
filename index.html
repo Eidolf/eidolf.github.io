@@ -1776,14 +1776,18 @@ var colibriData = {"44-h2":{"data":{"sticky":{"className":"h-navigation_sticky a
 </div>
 <!-- #page -->
         <script data-name="colibri-frontend-data">window.briteFrontendData = [];</script>
-        </body>
-<!-- Start of Rocket.Chat Livechat Script -->
-	<script type="text/javascript">
-	(function(w, d, s, u) {
-		w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;
-		var h = d.getElementsByTagName(s)[0], j = d.createElement(s);
-		j.async = true; j.src = 'https://chat.eidolf.de/livechat/rocketchat-livechat.min.js?_=201903270000';
-		h.parentNode.insertBefore(j, h);
-	})(window, document, 'script', 'https://chat.eidolf.de/livechat');
-	</script>
+        <script type='text/javascript' src='http://infoeidolfde.local/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='http://infoeidolfde.local/wp-includes/js/admin-bar.min.js?ver=6.2' id='admin-bar-js'></script>
+
+                <!-- Start of Rocket.Chat Livechat Script -->
+                <script type="text/javascript">
+                (function(w, d, s, u) {
+                    w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;
+                    var h = d.getElementsByTagName(s)[0], j = d.createElement(s);
+                    j.async = false; j.src = "https://chat.eidolf.de/livechat/rocketchat-livechat.min.js?_=201903270000";
+                    h.parentNode.insertBefore(j, h);
+                })(window, document, "script", "https://chat.eidolf.de/livechat");
+                </script>
+                <!-- End of Rocket.Chat Livechat Script -->
+                </body>
 </html>
