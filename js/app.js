@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function fetchProjectMetadata(url) {
     try {
+        console.log(`Fetching metadata for: ${url}`);
         // Since we are on the same domain (github.io), we can try to fetch the HTML
         const response = await fetch(url);
         if (!response.ok) throw new Error(`Failed to fetch ${url}`);
@@ -55,26 +56,48 @@ async function fetchProjectMetadata(url) {
         };
 
         // Extract data
-        const title = getMeta('og:title') || doc.title || 'Unbenanntes Projekt';
-        const description = getMeta('og:description') ||
-            getMeta('description') ||
-            'Keine Beschreibung verfügbar.';
+        let title = getMeta('og:title') || doc.title || 'Unbenanntes Projekt';
+
+        let description = getMeta('og:description') ||
+            getMeta('description');
+
+        // Fallback for description: try to find the first meaningful paragraph
+        if (!description) {
+            const paragraphs = doc.querySelectorAll('p');
+            for (const p of paragraphs) {
+                if (p.textContent.length > 20) {
+                    description = p.textContent.substring(0, 150) + (p.textContent.length > 150 ? '...' : '');
+                    break;
+                }
+            }
+        }
+        description = description || 'Keine Beschreibung verfügbar.';
 
         // Try to find an image
         let image = getMeta('og:image') || getMeta('twitter:image');
 
+        // Fallback for image: try to find the first image in body
+        if (!image) {
+            const firstImg = doc.querySelector('main img') || doc.querySelector('article img') || doc.querySelector('body img');
+            if (firstImg) {
+                image = firstImg.getAttribute('src');
+            }
+        }
+
         // If relative URL, make it absolute
         if (image && !image.startsWith('http')) {
             const urlObj = new URL(url);
-            image = new URL(image, urlObj.origin + urlObj.pathname).href;
+            // Handle root slash or relative path
+            const basePath = urlObj.pathname.endsWith('/') ? urlObj.pathname : urlObj.pathname.substring(0, urlObj.pathname.lastIndexOf('/') + 1);
+
+            if (image.startsWith('/')) {
+                image = urlObj.origin + image;
+            } else {
+                image = new URL(image, urlObj.origin + basePath).href;
+            }
         }
 
-        // Fallback or specific fix for common issues
-        if (!image) {
-            // Look for first img tag as fallback? Or just use a default placeholder
-            // Let's use a nice gradient placeholder if no image found
-            image = null;
-        }
+        console.log(`Metadata for ${url}:`, { title, description, image });
 
         return {
             url,
